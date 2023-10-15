@@ -2,7 +2,7 @@
 
 # About Me
 
-My name is Zuzanna Bielańska. My interests and passion oscilate around psychology and cultural studies. I have been studying Cultural Studies on Jagiellonian University. Recently I have started to interest in software testing and that's why I have enrolled on and successfully finished [DareIT QA course](https://www.dareit.io/challenges/qa-manual-testing) . I must admit, I am not great at theory but I am a fast learner and when I work in the enviornment I master skills quickly. My goal is to start work in IT and expand and strengthen the skills I have learned on the DareIT course.
+My name is Zuzanna Bielańska. My interests and passion oscilate around psychology and cultural studies. I have been studying Cultural Studies on Jagiellonian University. Recently I have started to interest in software testing and that's why I have enrolled on and successfully finished [DareIT QA course](https://www.dareit.io/challenges/qa-manual-testing) . I must admit, I am not great at theory but I am a fast learner and when I work in the enviornment I master skills quickly. My goal is to start work in IT and expand and strengthen the skills I have learned on the DareIT course. To be honest, I am not an IT geek. I am rather the opposite. But that's why I think I would be excellent to do testing because there are so many users of the Internet like me in the world.
 
 # Tech Tools
 
